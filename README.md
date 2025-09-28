@@ -42,7 +42,7 @@ A professional, responsive static website for Elite Legal Solutions - a comprehe
 **Elite Legal Solutions**
 - **Address**: First Floor, Sanjay Jain Group Building, Vishal Nagar, Pimple Nilakh, Pune 411027, Maharashtra
 - **Phone**: +91 8390665599
-- **Email**: elspune01@gmail.com
+- **Email**: contact@elspune.com
 - **Instagram**: [@elite_legal_solutions](https://www.instagram.com/elite_legal_solutions/)
 
 ## 🚀 Local Development
